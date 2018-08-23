@@ -25,4 +25,4 @@ gcc  nome-do-arquivo.c -o nome-do-arquivo-de-saida.exe
 
 ## Professora da disciplina
 
-* **Prof. Fernando Ferreira de Carvalho** - [Lattes](https://www.escavador.com/sobre/6344254/fernando-ferreira-de-carvalho)
+* **Prof. Fernando Ferreira de Carvalho** - [Escavador](https://www.escavador.com/sobre/6344254/fernando-ferreira-de-carvalho)
