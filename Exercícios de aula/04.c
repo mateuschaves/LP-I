@@ -5,12 +5,10 @@
 int fatorial(int n);
 
 void main(void){
-    printf("%d", fatorial(5));
+    printf("%d", fatorial(7));
     system("pause");
 }
 
 int fatorial(int n){
-    int aux;
-    (n > 1) ? (aux = n * fatorial(n - 1)) :( aux = 1 );
-    return aux;
+    return ((n > 1) ? ( n * fatorial(n - 1)) : 1 );
 }
