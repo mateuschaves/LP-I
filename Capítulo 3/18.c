@@ -4,7 +4,6 @@
 void main(void){
     int n, n1 = 0;
     int a, b, c = 1;
-    float p = 0;
     scanf("%d", &n);
     for(a = 1; a < 7; a++){
         for(b = 1; b < 7; b++ ){
@@ -14,7 +13,6 @@ void main(void){
             }
         }
     }
-    p =  ( (float)n1 / 216)*100;
-    printf("A probabilidade de sair %d eh de %.2f%%.\n", n, p);
+    printf("A probabilidade de sair %d eh de %.2f%%.\n", n, ((float)n1 / 216)*100);
     system("pause");
 }
