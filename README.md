@@ -23,6 +23,6 @@ gcc  nome-do-arquivo.c -o nome-do-arquivo-de-saida.exe
 
 * **Mateus Henrique** - [Github](https://github.com/mateuschaves) 
 
-## Professora da disciplina
+## Professor da disciplina
 
 * **Prof. Fernando Ferreira de Carvalho** - [Escavador](https://www.escavador.com/sobre/6344254/fernando-ferreira-de-carvalho)
